@@ -3,7 +3,7 @@
 
 AUTHOR = u'DesertPy Pythonistas'
 SITENAME = u'DesertPy'
-SITEURL = ''
+SITEURL = 'http://desertpy.com'
 
 TIMEZONE = 'America/Phoenix'
 

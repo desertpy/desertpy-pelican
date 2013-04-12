@@ -1,12 +1,11 @@
-Test Content
-##############
+First DesertPy Post
+###################
 
-:date: 2013-04-08 10:20
-:tags: test
+:date: 2013-04-13 10:20
+:tags: misc
 :category: posts
-:slug: test-post
+:slug: first-post
 :author: Austin Godber
-:summary: This is just a test post.
+:summary: Welcome post
 
-Here is some restructured text.
-
+Welcome to the DesertPy website.  This is the online home of Phoenix area Python users.
