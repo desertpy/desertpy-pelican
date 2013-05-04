@@ -5,14 +5,11 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = 'http://desertpy.github.io'
+SITEURL = 'http://desertpy.com'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-# Uncomment following line for absolute URLs in production:
-#RELATIVE_URLS = False
-
+THEME = "themes/subtle"
+RELATIVE_URLS = False
+GOOGLE_ANALYTICS = 'UA-39513587-1'
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
