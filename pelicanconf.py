@@ -22,5 +22,8 @@ SOCIAL = (('Twitter', 'https://twitter.com/desertpy'),
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
 USE_FOLDER_AS_CATEGORY = True
+PAGE_DIR = 'pages'
+
+GOOGLE_ANALYTICS = 'UA-39513587-1'
 
 THEME = "themes/subtle"
