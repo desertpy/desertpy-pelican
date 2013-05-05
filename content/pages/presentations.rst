@@ -12,4 +12,4 @@ Some of the presentations given at DesertPy meetings are shared below.
 * `Python and MongoDB <http://presentations.desertpy.com/python-and-mongodb/>`_ - Trevor Olson - date
 * `Intro to Fabric <http://presentations.desertpy.com/fabric-godber/>`_ - Austin Godber - April, 24th 2013
 * XML & PDB (no slides) - Jerry Davis - April, 24th 2013
-* RaspberryPi - Jerry Davis - April, 24th 2013
+* `RaspberryPi Lapdock <http://presentations.desertpy.com/rpi-lapdock/RPI_lapdock_how_to.pdf>`_ - Jerry Davis - April, 24th 2013
