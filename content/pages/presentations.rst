@@ -8,7 +8,7 @@ Presentations
 
 Some of the presentations given at DesertPy meetings are shared below.
 
-* Virtualenv - Austin Godber - date
+* `Virtualenv <http://presentations.desertpy.com/virtualenv-godber/virtualenv.pdf>`_ - Austin Godber - 2012
 * `Python and MongoDB <http://presentations.desertpy.com/python-and-mongodb/>`_ - Trevor Olson - date
 * `Intro to Fabric <http://presentations.desertpy.com/fabric-godber/>`_ - Austin Godber - April, 24th 2013
 * XML & PDB (no slides) - Jerry Davis - April, 24th 2013
