@@ -12,8 +12,8 @@ It was requested that I forward along an announcement about a Startup Weekend
 being held this month in Tempe.
 
 Announcement
-  "The Tempe Startup Weekend event (http://tempe.startupweekend.org) coming up on
-  June 21st at the new ASU AREA48 Formation Space on Mill Ave.
+  "There is a Tempe Startup Weekend event (http://tempe.startupweekend.org)
+  coming up on June 21st at the new ASU AREA48 Formation Space on Mill Ave.
 
   If you are unfamiliar with these events, Startup Weekends are 54-hour events
   sponsored by the Kauffman Foundation where developers, designers, marketers,
