@@ -25,7 +25,7 @@ USE_FOLDER_AS_CATEGORY = True
 PAGE_DIR = 'pages'
 # this should be true for dev purposes otherwise you don't see your specified
 # css, uh, I think
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 GOOGLE_ANALYTICS = 'UA-39513587-1'
 DISQUS_SITENAME = "desertpy"
 THEME = "themes/subtle"
