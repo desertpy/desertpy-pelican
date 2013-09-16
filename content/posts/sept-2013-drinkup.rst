@@ -1,5 +1,5 @@
 September 2013 Drinkup
-########i#############
+######################
 
 :date: 2013-09-15 18:47
 :tags: social, drinkup
