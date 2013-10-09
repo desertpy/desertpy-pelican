@@ -42,4 +42,4 @@ request.
 **RSVPs on GitHub - 1 RSVP**
 
 * Austin Godber (`@godber <http://twitter.com/godber>`_)
-
+* Randy Kaelber - This is by far the nerdiest RSVP I've ever given!
