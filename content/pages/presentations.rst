@@ -13,8 +13,8 @@ Some of the presentations given at DesertPy meetings are shared below.
 * `Intro to Fabric <http://presentations.desertpy.com/fabric-godber/>`_ - Austin Godber - April, 24th 2013
 * XML & PDB (no slides) - Jerry Davis - April, 24th 2013
 * `RaspberryPi Lapdock <http://presentations.desertpy.com/rpi-lapdock/RPI_lapdock_how_to.pdf>`_ - Jerry Davis - April, 24th 2013
-* `Pandas and Friends <http://presentations.desertpy.com/pandas-and-friends-godber/>`_ [`PDF <http://presentations.desertpy.com/pandas-and-friends-godber/pandas-and-friends.pdf>`_] - Austin Godber - June 26th 2013
-* `Packet Inspection <http://presentations.desertpy.com/packet-inspection/>`_ - Erik Stephens - October 30th 2013
+* `Pandas and Friends <http://presentations.desertpy.com/pandas-and-friends-godber/>`_ [`Pandas PDF <http://presentations.desertpy.com/pandas-and-friends-godber/pandas-and-friends.pdf>`_] - Austin Godber - June 26th 2013
+* `Packet Inspection <http://presentations.desertpy.com/packet-inspection/>`_ [`Packet Inspection PDF <http://presentations.desertpy.com/packet-inspection/packet-inspection.pdf>`_] - Erik Stephens - October 30th 2013
 
 Source for many of our presentations can be found on the `DesertPy github
 presentations project page <https://github.com/desertpy/presentations>`_.
