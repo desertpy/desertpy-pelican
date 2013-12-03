@@ -8,7 +8,7 @@ December 2013 Meeting - Salt Stack
 :author: Austin Godber
 :summary: December 2013 Meeting
 
-If you aren't too busy covering your house with fake reindeer come check out
+If you aren't too busy covering your house with fake reindeer, come check out
 the DesertPy meeting this month.  Details below!
 
 When
@@ -19,7 +19,9 @@ Where
 
 What
   Intro to `Salt Stack <http://www.saltstack.com/community/>`_, configuration
-  management is easier than you think.
+  management is easier than you think.  DesertPy member,
+  `Forrest <http://resume.github.io/?gravyboat>`_, will talk about the Python
+  based configuration management system that has Miley Cyrus all worked up.
 
 Feel free to RSVP on the `meetup site
 <http://www.meetup.com/Phoenix-Python-Meetup-Group/events/143637932/>`_ or
