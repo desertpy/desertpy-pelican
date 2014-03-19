@@ -1,12 +1,13 @@
 About DesertPy
 ################
 
-:date: 2013-05-4 10:20
+:date: 2014-03-18 10:20
 :slug: about
 :author: Austin Godber
 :summary: About DesertPy
 
-DesertPy is a group of Pythonistas in the Phoenix, Arizona area.
+DesertPy is a group of `Python <https://www.python.org/>`_ developers in the
+Phoenix, Arizona area.
 
 * `DesertPy Meetup Group <http://www.meetup.com/Phoenix-Python-Meetup-Group/>`_
 * `@desertpy on twitter <https://twitter.com/desertpy>`_
@@ -17,12 +18,17 @@ DesertPy is a group of Pythonistas in the Phoenix, Arizona area.
 Meetings
 ========
 
-Our group meets at 6:30PM on the fourth Wednesday of every other month
-(February, April, June, August, October, December).  Our current meeting place
-has been `Gangplank Chandler <http://gangplankhq.com/>`_ in downtown Chandler,
-AZ.
+Our group meets at 6:30PM on the fourth Wednesday of every month.  Our current
+meeting places are:
 
-On our `off months` we occasionally get together for a social meeting elsewhere.
+* `Gangplank Chandler <http://gangplankhq.com/>`_ in downtown Chandler, AZ.
+* `Isos Technology <http://www.isostech.com/>`_ in Tempe, AZ.
+
+We try to make the presentations given at our meetings available on the
+`DesertPy Presentation Page <http://desertpy.com/pages/presentations.html>`_.
+
+We also occasionally get together for social meetings elsewhere.  These
+gatherings will tend to be on the second Wednesday of the month.
 
 Contributing
 ============
