@@ -1,7 +1,7 @@
 Presentations
 ################
 
-:date: 2014-03-01 10:20
+:date: 2014-04-02 19:56
 :slug: presentations
 :author: Austin Godber
 :summary: Presentations
@@ -12,6 +12,8 @@ Some of the presentations given at DesertPy meetings are shared below.
 2014
 ====
 
+* `IPython <http://presentations.desertpy.com/ipython-godber/>`_ - Austin Godber - March 26th, 2014
+* `PEP 428 - pathlib <http://presentations.desertpy.com/pep-428-pathlib-trevor/>`_ - Trevor Olson - March 26th, 2014
 * `Image Processing with Python (PDF) <http://presentations.desertpy.com/image_processing_pillow/Python_img_proc.pdf>`_ [`code <https://github.com/desertpy/presentations/tree/master/image_processing_pillow/code>`_] - Sarah E. Braden - February 26th, 2014
 
 2013
