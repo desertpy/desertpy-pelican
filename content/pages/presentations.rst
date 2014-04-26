@@ -12,6 +12,8 @@ Some of the presentations given at DesertPy meetings are shared below.
 2014
 ====
 
+* `Python 2 vs Python 3 (PDF) <http://presentations.desertpy.com/python3-jerry/python3_vs_2.pdf>`_ - Jerry Davis - April 23rd, 2014
+* `PEP 3156 - asyncio (prezi link) <http://prezi.com/bh_dshytgi7u/?utm_campaign=share&utm_medium=copy&rc=ex0share>`_ - Craig Jellick - April 23rd, 2014
 * `IPython <http://presentations.desertpy.com/ipython-godber/>`_ - Austin Godber - March 26th, 2014
 * `PEP 428 - pathlib <http://presentations.desertpy.com/pep-428-pathlib-trevor/>`_ - Trevor Olson - March 26th, 2014
 * `Image Processing with Python (PDF) <http://presentations.desertpy.com/image_processing_pillow/Python_img_proc.pdf>`_ [`code <https://github.com/desertpy/presentations/tree/master/image_processing_pillow/code>`_] - Sarah E. Braden - February 26th, 2014
