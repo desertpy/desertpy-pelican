@@ -1,7 +1,7 @@
 About DesertPy
 ################
 
-:date: 2014-03-18 10:20
+:date: 2014-06-03 10:20
 :slug: about
 :author: Austin Godber
 :summary: About DesertPy
@@ -11,6 +11,7 @@ Phoenix, Arizona area.
 
 * `DesertPy Meetup Group <http://www.meetup.com/Phoenix-Python-Meetup-Group/>`_
 * `@desertpy on twitter <https://twitter.com/desertpy>`_
+* `/r/desertpy on Reddit <http://www.reddit.com/r/desertpy>`_
 * `DesertPy on Github <https://github.com/desertpy>`_
 * `DesertPy Google+ Community <https://plus.google.com/communities/103511724147602323431>`_
 * `Google groups mail list <https://groups.google.com/forum/?fromgroups#!forum/desertpy>`_
