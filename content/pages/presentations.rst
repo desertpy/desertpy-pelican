@@ -1,7 +1,7 @@
 Presentations
 ################
 
-:date: 2014-04-02 19:56
+:date: 2014-06-03 19:56
 :slug: presentations
 :author: Austin Godber
 :summary: Presentations
@@ -12,6 +12,8 @@ Some of the presentations given at DesertPy meetings are shared below.
 2014
 ====
 
+* `Flask Web Framework Live Coding <https://github.com/desertpy/flask-demo>`_ - Trevor Olson - May 28th, 2014
+* `PEP 450 - Statistics Module <http://presentations.desertpy.com/pep-450-braden/>`_ - Sarah Braden - May 28th, 2014
 * `Python 2 vs Python 3 (PDF) <http://presentations.desertpy.com/python3-jerry/python3_vs_2.pdf>`_ - Jerry Davis - April 23rd, 2014
 * `PEP 3156 - asyncio (prezi link) <http://prezi.com/bh_dshytgi7u/?utm_campaign=share&utm_medium=copy&rc=ex0share>`_ - Craig Jellick - April 23rd, 2014
 * `IPython <http://presentations.desertpy.com/ipython-godber/>`_ - Austin Godber - March 26th, 2014
