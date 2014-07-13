@@ -15,7 +15,7 @@ talks!
 
 
 When
-  Wednesday **June 23th, 2014** at **6:30PM**
+  Wednesday **June 23rd, 2014** at **6:30PM**
 
 Where
   ISOS Technology - `1130 E University Drive, #101, Tempe, AZ 85281 <https://goo.gl/maps/RzPNQ>`_
