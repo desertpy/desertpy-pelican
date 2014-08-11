@@ -1,7 +1,7 @@
 Presentations
 #############
 
-:date: 2014-06-03 19:56
+:date: 2014-08-10 23:09
 :slug: presentations
 :author: Austin Godber
 :summary: Presentations
@@ -12,6 +12,11 @@ Some of the presentations given at DesertPy meetings are shared below.
 2014
 ====
 
+* `SciPy 2014 Highlights` - Austin Godber - July 23, 2014
+* `Nsq and Python <http://nbviewer.ipython.org/gist/wtolson/d5955956972b7bb901ef/>`_ - Trevor Olson - July 23, 2014
+* `IPython as a command shell <https://github.com/ianpreston/oh-my-py/>`_ - Ian Preston - July 23, 2014
+* `Exploring Method Resolution Order (MRO)` - Jason Goldberger - July 23, 2014
+* `Python Logging for Web Applications <http://nbviewer.ipython.org/gist/erik-stephens/6918b6c25591d2b4d93f/>`_ - Erik Stephens - July 23, 2014
 * `Pytest - A Python Testing Framework <http://presentations.desertpy.com/pytest-godber/>`_ - Austin Godber - June 25th, 2014
 * `PEP 443 - Single Dispatch generic functions <http://prezi.com/uyvpdrtd-nhs/pep-443/>`_ [`PEP 443 code <https://github.com/cjellick/single-dispatch-demo>`_] - Craig Jellick - June 25th, 2014 
 * `Flask Web Framework Live Coding <https://github.com/desertpy/flask-demo>`_ - Trevor Olson - May 28th, 2014
