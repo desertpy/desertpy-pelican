@@ -16,7 +16,8 @@ links.
 
 + SciPy 2014 Highlights
 
-  Austin provided some highlights from this year's SciPy conference.
+  Austin provided some `highlights from this year's SciPy conference
+  <http://presentations.desertpy.com/thunderstorm-2014/SciPy_2014.slides.html>`_.
   Lots of exciting developments.  Five minutes didn't do it justice.
 
 + Nsq and Python
@@ -44,3 +45,15 @@ links.
   demonstrating how you can use Python's logging module and
   ElasticSearch & Kibana to instrument & analyze your web
   applications.
+
++ Jerry walked us through his MongoDB driven web application that tracks the
+  movies and books he and his wife own.  This served as a good example of using
+  MongoDB with Python.
+
++ Lastly, Jason accepted the challenge of giving an unfinished presentation on
+  `Python Deocrators
+  <http://presentations.desertpy.com/thunderstorm-2014/Decorators.slides.html#/>`_.
+  This presentation was started by Austin and Jason had never seen it before
+  and did an exceptional job talking about it sight unseen.
+
+*NOTE* Austin added the last two bullet point's here, for completion sake.
