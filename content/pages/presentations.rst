@@ -12,7 +12,9 @@ Some of the presentations given at DesertPy meetings are shared below.
 2014
 ====
 
-* `SciPy 2014 Highlights` - Austin Godber - July 23, 2014
+* `Exploring NumPy <http://presentations.desertpy.com/exploring-numpy-godber/Exploring_NumPy.slides.html>`_ - Austin Godber - Aug 27th, 2014
+* `SciPy 2014 Highlights <http://presentations.desertpy.com/thunderstorm-2014/SciPy_2014.slides.html>`_ - Austin Godber - July 23, 2014
+* `Python Decorators and Properties <http://presentations.desertpy.com/thunderstorm-2014/Decorators.slides.html#/>`_ - Written by Austin G., presented by Jason G. - July 23, 2014
 * `Nsq and Python <http://nbviewer.ipython.org/gist/wtolson/d5955956972b7bb901ef/>`_ - Trevor Olson - July 23, 2014
 * `IPython as a command shell <https://github.com/ianpreston/oh-my-py/>`_ - Ian Preston - July 23, 2014
 * `Exploring Method Resolution Order (MRO)` - Jason Goldberger - July 23, 2014
