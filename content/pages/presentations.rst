@@ -12,6 +12,7 @@ Some of the presentations given at DesertPy meetings are shared below.
 2014
 ====
 
+* `LIRC on RaspberryPi with Python (PDF) <http://presentations.desertpy.com/python-lirc-davis/IRcontrol.pdf>`_ [`code and config <https://github.com/desertpy/presentations/tree/master/python-lirc-davis>`_] - Jerry Davis - Aug 27th, 2014
 * `Exploring NumPy <http://presentations.desertpy.com/exploring-numpy-godber/Exploring_NumPy.slides.html>`_ - Austin Godber - Aug 27th, 2014
 * `SciPy 2014 Highlights <http://presentations.desertpy.com/thunderstorm-2014/SciPy_2014.slides.html>`_ - Austin Godber - July 23, 2014
 * `Python Decorators and Properties <http://presentations.desertpy.com/thunderstorm-2014/Decorators.slides.html#/>`_ - Written by Austin G., presented by Jason G. - July 23, 2014
