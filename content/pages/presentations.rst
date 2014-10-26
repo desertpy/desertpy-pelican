@@ -12,6 +12,7 @@ Some of the presentations given at DesertPy meetings are shared below.
 2014
 ====
 
+* `PyPy and RPython <http://presentations.desertpy.com/pypy-hochberg/PyPy_and_RPython.slides.html#/>`_ - Tim Hochberg - October 25th, 2014
 * `Machine Learning with Python <http://presentations.desertpy.com/machine_learning_braden/machine_learning_braden.slides.html>`_ - Sarah Braden - September 24th, 2014
 * `LIRC on RaspberryPi with Python (PDF) <http://presentations.desertpy.com/python-lirc-davis/IRcontrol.pdf>`_ [`code and config <https://github.com/desertpy/presentations/tree/master/python-lirc-davis>`_] - Jerry Davis - Aug 27th, 2014
 * `Exploring NumPy <http://presentations.desertpy.com/exploring-numpy-godber/Exploring_NumPy.slides.html>`_ - Austin Godber - Aug 27th, 2014
