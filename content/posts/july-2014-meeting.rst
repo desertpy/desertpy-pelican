@@ -18,8 +18,8 @@ When
   Wednesday **June 23rd, 2014** at **6:30PM**
 
 Where
-  ISOS Technology - `1130 E University Drive, #101, Tempe, AZ 85281 <https://goo.gl/maps/RzPNQ>`_
-  The ISOS offices can be found on the south west side of the western building
+  Isos Technology - `1130 E University Drive, #101, Tempe, AZ 85281 <https://goo.gl/maps/RzPNQ>`_
+  The Isos offices can be found on the south west side of the western building
   in the complex.  The building has 1130 in giant numbers on it.  Look for a
   sign on the door as we may have to let you in.  Enter through the door shown
   on the image below.
