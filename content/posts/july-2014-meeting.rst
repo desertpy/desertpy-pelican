@@ -24,7 +24,7 @@ Where
   sign on the door as we may have to let you in.  Enter through the door shown
   on the image below.
 
-.. image:: /static/images/isos-tempe-location.jpg
+.. image:: /images/isos-tempe-location.jpg
 
 What
     There won't be one big talk, but a bunch of smaller, fast paced talks on any

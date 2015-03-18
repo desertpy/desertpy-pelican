@@ -25,5 +25,5 @@ in downtown Tempe, on Mill: http://formationspace.com/
 
 The flyer below includes a 15% off discount code for DesertPy group members.
 
-.. image:: /static/images/SW_Flyer_PHX_Python.png
+.. image:: /images/SW_Flyer_PHX_Python.png
    :target: http://tempe.startupweekend.org/

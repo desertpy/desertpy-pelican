@@ -18,7 +18,7 @@ Where
   sign on the door as we may have to let you in.  Enter through the door shown
   on the image below.
 
-.. image:: /static/images/isos-tempe-location.jpg
+.. image:: /images/isos-tempe-location.jpg
 
 What
   Trevor will share the best kept secrets of the Python Standard Library by
