@@ -14,13 +14,13 @@ Github repository: https://github.com/desertpy/presentations
 2015
 ====
 
-* `GUI Programming with wxPython and Kivy <http://nbviewer.ipython.org/github/desertpy/presentations/blob/master/GUI_Programming_Wx_and_Kivy-Michael/GUI_Programming_in_Python.ipynb>`_ [nbviewer] - Michael Gilbert - April 22nd, 2015
+* `GUI Programming with wxPython and Kivy [nbviewer] <http://nbviewer.ipython.org/github/desertpy/presentations/blob/master/GUI_Programming_Wx_and_Kivy-Michael/GUI_Programming_in_Python.ipynb>`_ - Michael Gilbert - April 22nd, 2015
 * Python internals - Andy Vaught - March 25th, 2015
 * Battle of the Queues - February 25th, 2015
 
   * `Beanstalk <http://desertpy.github.io/presentations/queue-battle/beanstalk_talk.slides.html#/>`_ - Sarah Braden
   * `RQ - Redis Queue <http://desertpy.github.io/presentations/rq-godber/rq_godber.slides.html>`_ 
-    (`nbviewer <http://nbviewer.ipython.org/github/desertpy/presentations/blob/master/rq-godber/rq_godber.ipynb>`_)- Austin Godber
+    [`nbviewer <http://nbviewer.ipython.org/github/desertpy/presentations/blob/master/rq-godber/rq_godber.ipynb>`_]- Austin Godber
   * NSQ - Trevor Olson
   * Celery - Jason Goldberger
 
