@@ -17,6 +17,6 @@ pycrypto==2.6
 python-dateutil==2.4.0
 pytz==2014.10
 reportlab==2.7
-rst2pdf==0.93.dev
+rst2pdf==0.93
 six==1.9.0
 wsgiref==0.1.2
