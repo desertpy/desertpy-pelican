@@ -11,9 +11,27 @@ Some of the presentations given at DesertPy meetings are shared below.
 Supplemental material may be found for some of these presentations in our
 Github repository: https://github.com/desertpy/presentations
 
+2016
+====
+
+* Sentiment Analysis with Word2Vec and Doc2Vec - Tim Hotchberg - March 23rd, 2016
+* `Win32com and Automating Outlook <https://github.com/desertpy/presentations/blob/master/Win32com_Automating_Outlook-Michael/Win32com_and_Automation.ipynb>`_ - Michael Gilbert - March 23rd, 2016
+* `Pyinstaller <https://github.com/desertpy/presentations/blob/master/Pyinstaller_Frozen_Binaries-Michael/Pyinstaller_Presentation_DesertPy.ipynb>`_ - Michael Gilbert - February 24th, 2016
+* `GIS and Python - Lunar Edition <http://www.meetup.com/Phoenix-Python-Meetup-Group/events/228849691/>`_ - Austin Godber - February 24th, 2016.    
+* `blowdrycss - The revolutionary CSS compiler <https://docs.google.com/presentation/d/1wjkbvQUorD9rzdPWjwPXaJcYPOBnrjE1qUJY2M4xwuY/edit#slide=id.gc6f8badac_0_0>`_ - Chad Nelson - January 27th, 2016
+
 2015
 ====
 
+* Intro to Thespian - Kevin Quick - October 28th, 2015
+* `Intro to Automatic Speech Recognition     in Python <https://github.com/desertpy/presentations/blob/master/cmu-sphinx-braden/CMU_pocketsphinx_presentation.ipynb>`_ - Sarah Braden - October 28th, 2015
+* `gevent and greenlet <https://github.com/desertpy/presentations/blob/master/greenlet-preston/2015-09-23-desertpy-gevent.ipynb>`_ - Ian Preston - September 23th, 2015
+* `Python Plotting with Matplotlib <https://github.com/desertpy/presentations/blob/master/matplotlib/DesertPy_Matplotlib.ipynb>`_ - Austin Godber - August 26th, 2015
+* `Automated Web Testing with Selenium <https://www.evernote.com/shard/s78/sh/86ad5890-6f91-4acb-8532-95aa61d8ed33/1ec379787599c918>`_ - Bon Osonwanne - July 29th, 2015
+* GIS and Python - Pedro - June 24th, 2015
+* `Mutible vs Immutible Objects <http://nbviewer.jupyter.org/gist/aganders3/1b725f134873bbf71611>`_ - Ashley Anderson - June 24th, 2015
+* `Agile 101 <https://docs.google.com/presentation/d/1e6alYJyfVt_0jPYj0BMTDgxelD47mERX0CCTA4j_nCg/edit#slide=id.p4>`_ - Gint Grabauskas - May 9th, 2015
+* `Continuous Integration and Continuous Delivery with Jenkins and Github <https://docs.google.com/presentation/d/1YZaTI8T0P-vyNPikRFTJWKaH3CJR2eqBmWdPv6ioEtk/edit#slide=id.p>`_ - Dave Koopman - May 9th, 2015
 * `GUI Programming with wxPython and Kivy [nbviewer] <http://nbviewer.ipython.org/github/desertpy/presentations/blob/master/GUI_Programming_Wx_and_Kivy-Michael/GUI_Programming_in_Python.ipynb>`_ - Michael Gilbert - April 22nd, 2015
 * Python internals - Andy Vaught - March 25th, 2015
 * Battle of the Queues - February 25th, 2015
@@ -27,8 +45,7 @@ Github repository: https://github.com/desertpy/presentations
 
 2014
 ====
-
-* `PyPy and RPython <http://desertpy.github.io/presentations/pypy-hochberg/PyPy_and_RPython.slides.html#/>`_ - Tim Hochberg - October 25th, 2014
+e
 * `PyPy and RPython <http://desertpy.github.io/presentations/pypy-hochberg/PyPy_and_RPython.slides.html#/>`_ - Tim Hochberg - October 25th, 2014
 * `Machine Learning with Python <http://desertpy.github.io/presentations/machine_learning_braden/machine_learning_braden.slides.html>`_ - Sarah Braden - September 24th, 2014
 * `LIRC on RaspberryPi with Python (PDF) <http://desertpy.github.io/presentations/python-lirc-davis/IRcontrol.pdf>`_ [`code and config <https://github.com/desertpy/presentations/tree/master/python-lirc-davis>`_] - Jerry Davis - Aug 27th, 2014
@@ -37,7 +54,7 @@ Github repository: https://github.com/desertpy/presentations
 * `Python Decorators and Properties <http://desertpy.github.io/presentations/thunderstorm-2014/Decorators.slides.html#/>`_ - Written by Austin G., presented by Jason G. - July 23, 2014
 * `Nsq and Python <http://nbviewer.ipython.org/gist/wtolson/d5955956972b7bb901ef/>`_ - Trevor Olson - July 23, 2014
 * `IPython as a command shell <https://github.com/ianpreston/oh-my-py/>`_ - Ian Preston - July 23, 2014
-* `Exploring Method Resolution Order (MRO)` - Jason Goldberger - July 23, 2014
+* Exploring Method Resolution Order (MRO) - Jason Goldberger - July 23, 2014
 * `Python Logging for Web Applications <http://nbviewer.ipython.org/gist/erik-stephens/6918b6c25591d2b4d93f/>`_ - Erik Stephens - July 23, 2014
 * `Pytest - A Python Testing Framework <http://desertpy.github.io/presentations/pytest-godber/>`_ - Austin Godber - June 25th, 2014
 * `PEP 443 - Single Dispatch generic functions <http://prezi.com/uyvpdrtd-nhs/pep-443/>`_ [`PEP 443 code <https://github.com/cjellick/single-dispatch-demo>`_] - Craig Jellick - June 25th, 2014 
