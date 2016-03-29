@@ -45,7 +45,7 @@ Github repository: https://github.com/desertpy/presentations
 
 2014
 ====
-e
+
 * `PyPy and RPython <http://desertpy.github.io/presentations/pypy-hochberg/PyPy_and_RPython.slides.html#/>`_ - Tim Hochberg - October 25th, 2014
 * `Machine Learning with Python <http://desertpy.github.io/presentations/machine_learning_braden/machine_learning_braden.slides.html>`_ - Sarah Braden - September 24th, 2014
 * `LIRC on RaspberryPi with Python (PDF) <http://desertpy.github.io/presentations/python-lirc-davis/IRcontrol.pdf>`_ [`code and config <https://github.com/desertpy/presentations/tree/master/python-lirc-davis>`_] - Jerry Davis - Aug 27th, 2014
