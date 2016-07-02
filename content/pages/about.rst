@@ -20,6 +20,7 @@ Presentation Meetings
 On the **fourth Wednesday** of the month, at 6:30PM, DesertPy typically has a
 formal presentation based meeting.  Our current meeting places are:
 
+* `UAT (theater) <http://www.uat.edu/>`_ in Tempe, AZ.
 * `Gangplank Chandler <http://gangplankhq.com/>`_ in downtown Chandler, AZ.
 * `Isos Technology <http://www.isostech.com/>`_ in Tempe, AZ.
 
