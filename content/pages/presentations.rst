@@ -18,7 +18,7 @@ Github repository: https://github.com/desertpy/presentations
 * Docker to Launch Flask/SQLAlchemy - Marcus  - June 22nd, 2016
 * `\*args and \*\*kwargs in 5 minutes <https://github.com/desertpy/presentations/blob/master/misc_lightning/epm_args_kwargs.ipynb>`_ - Emily McDaniel - May 25th, 2016
 * `Using Python in AWS Lambda <https://github.com/desertpy/presentations/blob/master/aws-lambda-godber/Python_and_AWS_Lambda.ipynb>`_ - Austin Godber - May 25th, 2016
-* `Theno/Keras - Sarah Braden <https://github.com/desertpy/presentations/blob/master/theano-braden/Theano_Presentation.ipynb>`_ - April 27th, 2016
+* `Theno/Keras <https://github.com/desertpy/presentations/blob/master/theano-braden/Theano_Presentation.ipynb>`_ - Sarah Braden - April 27th, 2016
 * Python OOP - Trevor Olson - April 27th, 2016
 * Sentiment Analysis with Word2Vec and Doc2Vec - Tim Hotchberg - March 23rd, 2016
 * `Win32com and Automating Outlook <https://github.com/desertpy/presentations/blob/master/Win32com_Automating_Outlook-Michael/Win32com_and_Automation.ipynb>`_ - Michael Gilbert - March 23rd, 2016
