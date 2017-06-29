@@ -10,6 +10,9 @@ TIMEZONE = 'America/Phoenix'
 
 DEFAULT_LANG = u'en'
 
+# Additional main menue items
+MENUITEMS = [('Forum', 'https://discourse.desertpy.org')]
+
 # Blogroll
 LINKS = (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
          ('Python.org', 'http://python.org'))
