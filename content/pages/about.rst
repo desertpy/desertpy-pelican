@@ -1,7 +1,7 @@
 About DesertPy
 ################
 
-:date: 2014-06-03 10:20
+:date: 2017-09-09 10:20
 :slug: about
 :author: Austin Godber
 :summary: About DesertPy
@@ -9,6 +9,7 @@ About DesertPy
 DesertPy is a group of `Python <https://www.python.org/>`_ developers in the
 Phoenix, Arizona area.
 
+* `DesertPy Web Forums <https://discourse.desertpy.org/>`_
 * `DesertPy Meetup Group <http://www.meetup.com/Phoenix-Python-Meetup-Group/>`_
 * `@desertpy on twitter <https://twitter.com/desertpy>`_
 * `DesertPy on Github <https://github.com/desertpy>`_
@@ -18,16 +19,16 @@ Phoenix, Arizona area.
 Presentation Meetings
 =====================
 
-DesertPy typically has a couple formal presentation based meetings. 
+DesertPy typically has a couple formal presentation based meetings.
 
-On the **fourth Wednesday** of the month, at 6:30PM. 
+On the **fourth Tuesday** of the month, at 6:30PM.
 Our current meeting places for this event are:
 
 * `UAT (theater) <http://www.uat.edu/>`_ in Tempe, AZ.
 * `Gangplank Chandler <http://gangplankhq.com/>`_ in downtown Chandler, AZ.
 * `Isos Technology <http://www.isostech.com/>`_ in Tempe, AZ.
 
-On the **second Tuesday** of **every other** month, at 6:30PM. 
+On the **second Tuesday** of **every other** month, at 6:30PM.
 Our current meeting place for this event is:
 
 * `Galvanize <https://www.galvanize.com/phoenix/campus>`_ in downtown Phoenix, AZ.
