@@ -36,7 +36,6 @@ EXCLUDED_PAGES = ('Web Chat')
 # css, uh, I think
 RELATIVE_URLS = True
 GOOGLE_ANALYTICS = 'UA-39513587-1'
-DISQUS_SITENAME = "desertpy"
 THEME = "themes/subtle"
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
