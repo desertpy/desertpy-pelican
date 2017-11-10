@@ -11,6 +11,7 @@ Working on Site
 ===============
 
 * Clone repo
+* Create python 2.7 virtualenv - ``mkvirtualenv desertpy-pelican``
 * Install dependencies - ``pip install -r requirements``
 * Make changes
 * Run development pelican server - ``./develop_server.sh start``
