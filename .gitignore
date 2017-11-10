@@ -2,3 +2,4 @@
 output/
 *.pid
 cache
+.DS_Store
