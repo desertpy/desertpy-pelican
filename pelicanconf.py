@@ -4,25 +4,25 @@
 
 AUTHOR = u'DesertPy Pythonistas'
 SITENAME = u'DesertPy'
-SITEURL = 'http://desertpy.com'
+SITEURL = 'https://desertpy.com'
+
+PATH = 'content'
 
 TIMEZONE = 'America/Phoenix'
 
 DEFAULT_LANG = u'en'
 
 # Additional main menue items
-MENUITEMS = [('Forum', 'https://discourse.desertpy.org')]
+MENUITEMS = [('Discord Chat', 'https://discord.gg/ch7TPCx')]
 
 # Blogroll
-LINKS = (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-         ('Python.org', 'http://python.org'))
+LINKS = []
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/desertpy'),
+SOCIAL = [('Twitter', 'https://twitter.com/desertpy'),
           ('Github', 'https://github.com/desertpy'),
-          ('Google+',
-              'https://plus.google.com/communities/103511724147602323431'),
-          ('Meetup', 'http://www.meetup.com/Phoenix-Python-Meetup-Group'),)
+          ('Meetup', 'http://www.meetup.com/Phoenix-Python-Meetup-Group'),
+          ]
 
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
@@ -30,7 +30,7 @@ USE_FOLDER_AS_CATEGORY = True
 PAGE_PATHS = ['pages']
 
 # Add page titles here if you don't want them linked to automatically
-EXCLUDED_PAGES = ('Web Chat')
+EXCLUDED_PAGES = ['Web Chat']
 
 # this should be true for dev purposes otherwise you don't see your specified
 # css, uh, I think
