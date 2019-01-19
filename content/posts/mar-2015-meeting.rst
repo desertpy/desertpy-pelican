@@ -22,6 +22,7 @@ Where
   on the image below.
 
 .. image:: /images/isos-tempe-location.jpg
+   :alt: Isos Tempe Location
 
 
 Feel free to RSVP on the `meetup site

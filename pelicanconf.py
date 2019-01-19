@@ -27,7 +27,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/desertpy'),
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
 USE_FOLDER_AS_CATEGORY = True
-PAGE_DIR = 'pages'
+PAGE_PATHS = ['pages']
 
 # Add page titles here if you don't want them linked to automatically
 EXCLUDED_PAGES = ('Web Chat')

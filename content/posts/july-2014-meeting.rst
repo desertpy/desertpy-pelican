@@ -25,6 +25,7 @@ Where
   on the image below.
 
 .. image:: /images/isos-tempe-location.jpg
+   :alt: Isos Tempe Location
 
 What
     There won't be one big talk, but a bunch of smaller, fast paced talks on any
