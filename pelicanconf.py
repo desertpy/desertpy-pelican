@@ -19,10 +19,11 @@ MENUITEMS = [('Discord Chat', 'https://discord.gg/ch7TPCx')]
 LINKS = []
 
 # Social widget
-SOCIAL = [('Twitter', 'https://twitter.com/desertpy'),
-          ('Github', 'https://github.com/desertpy'),
-          ('Meetup', 'http://www.meetup.com/Phoenix-Python-Meetup-Group'),
-          ]
+SOCIAL = [
+    ('Twitter', 'https://twitter.com/desertpy'),
+    ('Github', 'https://github.com/desertpy'),
+    ('Meetup', 'http://www.meetup.com/Phoenix-Python-Meetup-Group'),
+]
 
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
