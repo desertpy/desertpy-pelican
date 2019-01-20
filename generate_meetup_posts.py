@@ -37,7 +37,7 @@ for event in events:
     featured_photo_link = event.get('featured_photo', {}).get('photo_link', None)
 
     # Higher level logic
-    slug_name = slugify(name)
+    slug_name = f"{slugify(name)}-{created_date_time.year}-{created_date_time.month}"
     file_name = f"{created_date_time.year}-{created_date_time.month}-{slug_name}.md"
 
     # Generate
