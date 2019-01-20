@@ -25,6 +25,8 @@ SOCIAL = [
     ('Meetup', 'http://www.meetup.com/Phoenix-Python-Meetup-Group'),
 ]
 
+ARTICLE_PATHS = ['posts', 'meetup_posts_gen']
+
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
 USE_FOLDER_AS_CATEGORY = True
