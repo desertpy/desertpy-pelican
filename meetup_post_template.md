@@ -6,8 +6,8 @@ Tags: meetup
 Slug: {{ slug_name }}
 Authors: {{ hosts|join(', ') }}
 
-[See on Meetup.com]({{link}})
-
 ![Featured Photo]({{featured_photo_link}})
+
+**[RSVP on Meetup.com!]({{meetup_link}})**
 
 {{ description }}
