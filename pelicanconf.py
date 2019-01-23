@@ -3,7 +3,7 @@
 """Primary configuration file for DesertPy Pelican Site"""
 
 AUTHOR = u'DesertPy Pythonistas'
-SITENAME = u'DesertPy'
+SITENAME = u'🌵DesertPy'
 SITEURL = 'https://desertpy.com'
 
 PATH = 'content'
@@ -13,7 +13,7 @@ TIMEZONE = 'America/Phoenix'
 DEFAULT_LANG = u'en'
 
 # Additional main menue items
-MENUITEMS = [('Discord Chat', 'https://discord.gg/ch7TPCx')]
+MENUITEMS = [('Discord Chat <i class="fas fa-external-link-alt"></i>', 'https://discord.gg/ch7TPCx')]
 
 # Blogroll
 LINKS = []
@@ -25,7 +25,7 @@ ARTICLE_PATHS = ['posts', 'meetup_posts_gen']
 
 DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = True
-USE_FOLDER_AS_CATEGORY = True
+USE_FOLDER_AS_CATEGORY = False
 PAGE_PATHS = ['pages']
 
 # Add page titles here if you don't want them linked to automatically
