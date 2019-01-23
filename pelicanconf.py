@@ -19,11 +19,7 @@ MENUITEMS = [('Discord Chat', 'https://discord.gg/ch7TPCx')]
 LINKS = []
 
 # Social widget
-SOCIAL = [
-    ('Twitter', 'https://twitter.com/desertpy'),
-    ('Github', 'https://github.com/desertpy'),
-    ('Meetup', 'http://www.meetup.com/Phoenix-Python-Meetup-Group'),
-]
+SOCIAL = []
 
 ARTICLE_PATHS = ['posts', 'meetup_posts_gen']
 
@@ -39,7 +35,7 @@ EXCLUDED_PAGES = ['Web Chat']
 # css, uh, I think
 RELATIVE_URLS = True
 GOOGLE_ANALYTICS = 'UA-39513587-1'
-# THEME = "themes/subtle"
+THEME = "themes/desertpyidea"
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
