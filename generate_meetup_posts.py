@@ -33,6 +33,7 @@ for event in events:
     venue_name = event['venue']['name']
     meetup_link = event['link']
     description = event['description']
+    status = event['status']
     hosts = (host['name'] for host in event['event_hosts'])
     featured_photo_link = event.get('featured_photo', {}).get('photo_link', None)
 
@@ -55,6 +56,7 @@ for event in events:
         hosts=hosts,
         featured_photo_link=featured_photo_link,
         slug_name=slug_name,
+        status=status,
     )
 
     with open(Path(meetup_posts_gen_folder, file_name), 'w') as file:
