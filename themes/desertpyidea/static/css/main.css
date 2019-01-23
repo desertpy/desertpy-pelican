@@ -17,7 +17,7 @@
 /***** Global *****/
 /* Body */
 body {
-    background: #F5F4EF;
+    background: #E1CE7A;
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -162,7 +162,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	/* Banner */
 	#banner h1 {font-size: 3.571em; line-height: 0;}
 	#banner h1 a:link, #banner h1 a:visited {
-		color: #000305;
+		color: #754F44;
 		display: block;
 		font-weight: bold;
 		margin: 0 0 .6em .2em;
@@ -178,7 +178,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 	/* Main Nav */
 	#banner nav {
-		background: #000305;
+		background: #FDD692;
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
@@ -196,7 +196,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 
 	#banner nav a:link, #banner nav a:visited {
-		color: #fff;
+		color: #754F44;
 		display: inline-block;
 		height: 30px;
 		padding: 5px 1.5em;
@@ -223,7 +223,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	Featured
 *****************/
 #featured {
-	background: #fff;
+	background: #FBFFB9;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
@@ -252,7 +252,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	Body
 *****************/
 #content {
-	background: #fff;
+	background: #FBFFB9;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
