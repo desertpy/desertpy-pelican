@@ -30,7 +30,10 @@ Authors: {{ hosts|join(', ') }}
 
 {% endif %}
 
+{% if featured_photo_link %}
+
 ![Featured Photo]({{featured_photo_link}})
 
+{% endif %}
 
 {{ description }}
