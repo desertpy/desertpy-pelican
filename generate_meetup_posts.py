@@ -27,6 +27,7 @@ Path.mkdir(Path('content/meetup_posts_gen'), exist_ok=True)
 for event in events:
     # Bring variables to Python types
     name = event['name']
+    event_id = event['id']
     created_date_time = pendulum.from_timestamp(event['created'] / 1000)
     updated_date_time = pendulum.from_timestamp(event['updated'] / 1000)
     event_date_time = pendulum.from_timestamp(event['time'] / 1000)
@@ -39,7 +40,7 @@ for event in events:
 
     # Higher level logic
     slug_name = f"{slugify(name)}-{created_date_time.year}-{created_date_time.month:02d}"
-    file_name = f"{created_date_time.year}-{created_date_time.month:02d}-{slugify(name)}.md"
+    file_name = f"{created_date_time.year}-{created_date_time.month:02d}-{event_id}-{slugify(name)}.md"
 
     # Generate
     with open('meetup_post_template.md') as file:
