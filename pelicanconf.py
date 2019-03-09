@@ -3,7 +3,7 @@
 """Primary configuration file for DesertPy Pelican Site"""
 
 AUTHOR = u'DesertPy Pythonistas'
-SITENAME = u'🌵DesertPy'
+SITENAME = u'DesertPy'
 SITEURL = 'https://desertpy.com'
 
 PATH = 'content'
