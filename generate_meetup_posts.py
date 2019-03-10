@@ -21,7 +21,7 @@ events = requests.get(MEETUP_EVENTS_URL).json()
 
 # Reset Destination Folder
 meetup_posts_gen_folder = Path('content/meetup_posts_gen')
-shutil.rmtree(meetup_posts_gen_folder)
+shutil.rmtree(meetup_posts_gen_folder, ignore_errors=True)
 Path.mkdir(Path('content/meetup_posts_gen'), exist_ok=True)
 
 for event in events:
