@@ -16,7 +16,7 @@ Fork it, improve it, and send a pull request!
 
 ## Publishing
 
-This uses GitHub Actions and GitHub Pages.
+This uses CircleCI.
 
 ### Setup
 
@@ -25,11 +25,13 @@ Has to be done once.
 * Create a SSH key specifically for use as a deploy key.
   * `ssh-keygen -t ed25519 -f $HOME/.ssh/id_ed25519_dpp_dpk -N ""`
 * Add `$HOME/.ssh/id_ed25519_dpp_dpk.pub` as a deploy key *with write access*.
-* In the GitHub repository secrets, set `GIT_DEPLOY_KEY` to the contents of
-  `$HOME/.ssh/id_ed25519_dpp_dpk`
+* In CircleCI Environment variables, set `GIT_DEPLOY_KEY_BASE64` to the base64'd
+contents of `$HOME/.ssh/id_ed25519_dpp_dpk`
 * Add site CNAME to GitHub settings.
+* Add repository to CircleCI
 * Push to master and check if the pages are deployed correctly.
 
 ### Ongoing Workflow
 
 * Push to `master`
+* Pages updated hourly from `master` to keep up with meetup.com content.
