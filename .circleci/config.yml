@@ -15,3 +15,24 @@ jobs:
         -e GITHUB_ACTOR=$CIRCLE_USERNAME
         action
 
+workflows:
+  version: 2
+  hourly:
+    triggers:
+      - schedule:
+          cron: "0 * * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
+  master:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
