@@ -39,8 +39,8 @@ for event in events:
     featured_photo_link = event.get('featured_photo', {}).get('photo_link', None)
 
     # Higher level logic
-    slug_name = f"{slugify(name)}-{created_date_time.year}-{created_date_time.month:02d}"
-    file_name = f"{created_date_time.year}-{created_date_time.month:02d}-{event_id}-{slugify(name)}.md"
+    slug_name = f"{slugify(name)}-{event_date_time.year}-{event_date_time.month:02d}"
+    file_name = f"{event_date_time.year}-{event_date_time.month:02d}-{slugify(name)}.md"
 
     # Generate
     with open('meetup_post_template.md') as file:
