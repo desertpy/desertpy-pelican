@@ -62,3 +62,5 @@ for event in events:
 
     with open(Path(meetup_posts_gen_folder, file_name), 'w') as file:
         file.write(output)
+
+print(f"Wrote {len(events)} Meetup events")

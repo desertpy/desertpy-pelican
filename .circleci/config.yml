@@ -1,0 +1,17 @@
+version: 2
+jobs:
+ build:
+   machine: true
+   steps:
+     - checkout
+     - run: docker build -t action gh-pages-pelican-action
+     - run: >
+        GIT_DEPLOY_KEY="$(echo $GIT_DEPLOY_KEY_BASE64 | base64 -d)"
+        docker run --rm
+        -v $PWD:/workspace
+        -w /workspace
+        -e GIT_DEPLOY_KEY
+        -e GITHUB_REPOSITORY=$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
+        -e GITHUB_ACTOR=$CIRCLE_USERNAME
+        action
+
