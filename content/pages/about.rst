@@ -9,7 +9,6 @@ About DesertPy
 DesertPy is a group of `Python <https://www.python.org/>`_ developers in the
 Phoenix, Arizona area.
 
-* `DesertPy Web Forums <https://discourse.desertpy.org/>`_
 * `DesertPy Meetup Group <http://www.meetup.com/Phoenix-Python-Meetup-Group/>`_
 * `@desertpy on twitter <https://twitter.com/desertpy>`_
 * `DesertPy on Github <https://github.com/desertpy>`_

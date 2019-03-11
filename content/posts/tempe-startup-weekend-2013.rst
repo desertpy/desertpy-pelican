@@ -27,3 +27,4 @@ The flyer below includes a 15% off discount code for DesertPy group members.
 
 .. image:: /images/SW_Flyer_PHX_Python.png
    :target: http://tempe.startupweekend.org/
+   :alt: SW Flyer PHX Python

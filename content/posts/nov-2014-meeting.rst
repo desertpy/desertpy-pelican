@@ -19,6 +19,7 @@ Where
   on the image below.
 
 .. image:: /images/isos-tempe-location.jpg
+   :alt: Isos Tempe Location
 
 What
   Trevor will share the best kept secrets of the Python Standard Library by
