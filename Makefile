@@ -5,6 +5,7 @@ BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
+PUBLISHCONF=$(BASEDIR)/pelicanconf.py
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
