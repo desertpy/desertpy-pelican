@@ -36,6 +36,7 @@ generate_meetup_posts:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	cp CNAME $(OUTPUTDIR)
 
 github_upload: publish
 	ghp-import $(OUTPUTDIR)
