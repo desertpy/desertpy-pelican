@@ -13,24 +13,25 @@ Phoenix, Arizona area.
 * `@desertpy on twitter <https://twitter.com/desertpy>`_
 * `DesertPy on Github <https://github.com/desertpy>`_
 * `Google groups mail list <https://groups.google.com/forum/?fromgroups#!forum/desertpy>`_
-
+* `DesertPy Discord Chat <http://chat.desertpy.org>`_
 
 Presentation Meetings
 =====================
 
 DesertPy typically has a couple formal presentation based meetings.
 
-On the **fourth Tuesday** of the month, at 6:30PM.
-Our current meeting places for this event are:
+On the **fourth Wednesday** of the month, at 6:30PM.
+Our current meeting place for this event is:
 
+* `McKesson <https://www.mckesson.com/>`_ in Scottsdale near McDonald and the 101.
+
+In the past, the following organizations have supported DesertPy
+by sharing their space with us:
+
+* `Galvanize <https://www.galvanize.com/phoenix/campus>`_ in downtown Phoenix, AZ.
 * `UAT (theater) <http://www.uat.edu/>`_ in Tempe, AZ.
 * `Gangplank Chandler <http://gangplankhq.com/>`_ in downtown Chandler, AZ.
 * `Isos Technology <http://www.isostech.com/>`_ in Tempe, AZ.
-
-On the **second Tuesday** of **every other** month, at 6:30PM.
-Our current meeting place for this event is:
-
-* `Galvanize <https://www.galvanize.com/phoenix/campus>`_ in downtown Phoenix, AZ.
 
 We try to make the presentations given at our meetings available on the
 `DesertPy Presentation Page <http://desertpy.com/pages/presentations.html>`_.
