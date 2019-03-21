@@ -1,5 +1,7 @@
 # desertpy-pelican
 
+[![CircleCI](https://circleci.com/gh/desertpy/desertpy-pelican/tree/master.svg?style=svg)](https://circleci.com/gh/desertpy/desertpy-pelican/tree/master)
+
 DesertPy Webpage Source - Pelican
 
 This is the source to the DesertPy web page ( http://desertpy.com ).
