@@ -29,7 +29,6 @@ Has to be done once.
 * Add `$HOME/.ssh/id_ed25519_dpp_dpk.pub` as a deploy key *with write access*.
 * In CircleCI Environment variables, set `GIT_DEPLOY_KEY_BASE64` to the base64'd
 contents of `$HOME/.ssh/id_ed25519_dpp_dpk`
-* Add site CNAME to GitHub settings.
 * Add repository to CircleCI
 * Push to master and check if the pages are deployed correctly.
 
