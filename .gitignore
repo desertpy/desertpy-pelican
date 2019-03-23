@@ -4,3 +4,4 @@ output/
 cache
 .DS_Store
 content/meetup_posts_gen
+.idea/
