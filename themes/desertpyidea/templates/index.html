@@ -3,10 +3,10 @@
 {% block content %}
 {% if articles %}
     {% for article in articles_page.object_list %}
-
         {# First item #}
         {% if loop.first and not articles_page.has_previous() %}
             <aside id="featured" class="body">
+                {{ (pages | selectattr("slug", "equalto", "about") | first).content }}
                 <article>
                     <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
                     {% include 'article_infos.html' %}{{ article.content }}{% include 'comments.html' %}
