@@ -60,7 +60,7 @@ for event in events:
         status=status,
     )
 
-    with open(Path(meetup_posts_gen_folder, file_name), 'w') as file:
-        file.write(output)
+    with open(Path(meetup_posts_gen_folder, file_name), 'wb') as file:
+        file.write(output.encode('UTF-8'))
 
 print(f"Wrote {len(events)} Meetup events")
