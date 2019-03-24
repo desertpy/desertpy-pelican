@@ -14,10 +14,10 @@ DEFAULT_LANG = u'en'
 
 # Additional main menue items
 MENUITEMS = [
-    ('Lightning Talks', '/pages/lightning.html'),
-    ('Presentations', '/pages/presentations.html'),
-    ('Discord Chat <i class="fas fa-external-link-alt"></i>', 'https://discord.gg/ch7TPCx'),
-    ('Meetup Group <i class="fas fa-external-link-alt"></i>', 'https://www.meetup.com/Phoenix-Python-Meetup-Group/'),
+    ('<i class="fas fa-bolt"></i> Lightning Talks', '/pages/lightning.html'),
+    ('<i class="fas fa-file-powerpoint"></i> Presentations', '/pages/presentations.html'),
+    ('<i class="fab fa-discord"></i> Discord Chat <i class="fas fa-external-link-alt"></i>', 'https://discord.gg/ch7TPCx'),
+    ('<i class="fab fa-meetup"></i> Meetup Group <i class="fas fa-external-link-alt"></i>', 'https://www.meetup.com/Phoenix-Python-Meetup-Group/'),
 ]
 
 # Blogroll

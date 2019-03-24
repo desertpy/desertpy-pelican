@@ -16,12 +16,12 @@ Authors: {{ hosts|join(', ') }}
 {% if status == 'upcoming' %}
 
 <div class="meetup-button">
-<i class="fas fa-external-link-alt"></i> <a href="{{meetup_link}}">RSVP on Meetup.com!</a>
+<i class="fab fa-meetup"></i> <a href="{{meetup_link}}">RSVP on Meetup.com! <i class="fas fa-external-link-alt"></i></a>
 </div>
 
 {% else %}
 
-<em><a href="{{meetup_link}}">See past meeting details!</a></em>
+<i class="fab fa-meetup"></i> <a href="{{meetup_link}}">See past meeting details!</a>
 
 {% endif %}
 
