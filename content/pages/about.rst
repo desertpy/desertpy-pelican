@@ -10,9 +10,9 @@ DesertPy is a group of `Python <https://www.python.org/>`_ developers in the
 Phoenix, Arizona area.
 
 * `DesertPy Meetup Group <http://www.meetup.com/Phoenix-Python-Meetup-Group/>`_
-* `@desertpy on twitter <https://twitter.com/desertpy>`_
-* `DesertPy on Github <https://github.com/desertpy>`_
-* `Google groups mail list <https://groups.google.com/forum/?fromgroups#!forum/desertpy>`_
+* `@desertpy on Twitter <https://twitter.com/desertpy>`_
+* `DesertPy on GitHub <https://github.com/desertpy>`_
+* `Google Groups mail list <https://groups.google.com/forum/?fromgroups#!forum/desertpy>`_
 * `DesertPy Discord Chat <http://chat.desertpy.org>`_
 
 Presentation Meetings
