@@ -1,5 +1,5 @@
 Title: {{ name }}
-Date: {{ event_date_time.to_iso8601_string() }}
+Date: {{ event_date_time.in_tz('America/Phoenix').to_iso8601_string() }}
 Category: posts
 Tags: meetup,{{ status }}
 Slug: {{ slug_name }}
