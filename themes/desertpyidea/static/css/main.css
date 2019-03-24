@@ -193,7 +193,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 
 	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
-	#banner nav li {float: left; display: inline; margin: 0;}
+	#banner nav li {display: inline-block; margin: 0;}
 
 	#banner nav a:link, #banner nav a:visited {
 		color: #754F44;
@@ -207,16 +207,6 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		background: #C74451;
 		color: #fff;
 		text-shadow: none !important;
-	}
-
-	#banner nav li:first-child a {
-		border-top-left-radius: 5px;
-		-moz-border-radius-topleft: 5px;
-		-webkit-border-top-left-radius: 5px;
-
-		border-bottom-left-radius: 5px;
-		-moz-border-radius-bottomleft: 5px;
-		-webkit-border-bottom-left-radius: 5px;
 	}
 
 /*
