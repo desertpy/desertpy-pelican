@@ -4,9 +4,6 @@
     {% if articles %}
         {% if not articles_page.has_previous() %}
             <aside id="featured" class="body">
-                {{ (pages | selectattr("slug", "equalto", "about") | first).content }}
-            </aside>
-            <aside id="featured" class="body">
                 <h1>Upcoming</h1>
                 <ol class="hfeed" id="posts-list-upcoming">
                     {% for article in articles_page.object_list | reverse %}

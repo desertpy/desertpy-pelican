@@ -14,6 +14,7 @@ DEFAULT_LANG = u'en'
 
 # Additional main menue items
 MENUITEMS = [
+    ('<i class="fas fa-info-circle"></i> About', '/pages/about.html'),
     ('<i class="fas fa-file-powerpoint"></i> Presentations', '/pages/presentations.html'),
     ('<i class="fab fa-discord"></i> Discord Chat <i class="fas fa-external-link-alt"></i>', 'https://discord.gg/ch7TPCx'),
     ('<i class="fab fa-meetup"></i> Meetup Group <i class="fas fa-external-link-alt"></i>', 'https://www.meetup.com/Phoenix-Python-Meetup-Group/'),
