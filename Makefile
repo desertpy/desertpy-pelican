@@ -6,6 +6,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/pelicanconf.py
+GITHUB_REPOSITORY := $(or $(GITHUB_REPOSITORY), "desertpy/desertpy-pelican")
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
@@ -37,7 +38,9 @@ generate_meetup_posts:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	cp CNAME $(OUTPUTDIR)
+	if [ $(GITHUB_REPOSITORY) = "desertpy/desertpy-pelican" ]; then\
+		cp CNAME $(OUTPUTDIR);\
+	fi
 
 github_upload: publish
 	ghp-import $(OUTPUTDIR)

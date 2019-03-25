@@ -13,7 +13,12 @@ TIMEZONE = 'America/Phoenix'
 DEFAULT_LANG = u'en'
 
 # Additional main menue items
-MENUITEMS = [('Discord Chat <i class="fas fa-external-link-alt"></i>', 'https://discord.gg/ch7TPCx')]
+MENUITEMS = [
+    ('<i class="fas fa-info-circle"></i> About', '/pages/about.html'),
+    ('<i class="fas fa-file-powerpoint"></i> Presentations', '/pages/presentations.html'),
+    ('<i class="fab fa-discord"></i> Discord Chat <i class="fas fa-external-link-alt"></i>', 'https://discord.gg/ch7TPCx'),
+    ('<i class="fab fa-meetup"></i> Meetup Group <i class="fas fa-external-link-alt"></i>', 'https://www.meetup.com/Phoenix-Python-Meetup-Group/'),
+]
 
 # Blogroll
 LINKS = []
@@ -24,7 +29,8 @@ SOCIAL = []
 ARTICLE_PATHS = ['posts', 'meetup_posts_gen']
 
 DEFAULT_PAGINATION = 10
-DISPLAY_PAGES_ON_MENU = True
+# Hide About
+DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 USE_FOLDER_AS_CATEGORY = False
 PAGE_PATHS = ['pages']
