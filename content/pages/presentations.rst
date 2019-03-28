@@ -11,9 +11,28 @@ Some of the presentations given at DesertPy meetings are shared below.
 Supplemental material may be found for some of these presentations in our
 Github repository: https://github.com/desertpy/presentations
 
+2019
+====
+
+* `Calling C code from Python <https://github.com/desertpy/presentations/blob/master/kaspar-calling-c-from-py/c-p.pdf>`_ - David Kaspar - March 27th, 2019
+* `Introduction to Stream Processing with Python and Kafka <https://github.com/desertpy/presentations/blob/master/godber-aiokafka-2019/Stream_Processing_in_Python_with_Kafka.pdf>`_ - Austin Godber - March 27th, 2019
+
+2018
+====
+
+* Austin will backfill these some day, or YOU can help by sending a PR!
+
+2017
+====
+
+* Austin will backfill these some day, or YOU can help by sending a PR!
+
+
 2016
 ====
 
+* `Introduction to Python <https://github.com/desertpy/presentations/tree/master/godber-python-intro>`_ - Austin Godber - October 26, 2016
+* `Unicode in Python <https://github.com/desertpy/presentations/blob/master/Unicode_in_Python-AndyV.pdf>`_ - Andy V - August 24, 2016
 * `SQLAlchemy and Pycon 2016 Update <https://github.com/desertpy/presentations/blob/master/SQLAlchemy_and_Pycon_2016_update-Michael/SQLAlchemy_and_PyCon2016.ipynb>`_ - Michael Gilbert - June 22nd, 2016
 * Docker to Launch Flask/SQLAlchemy - Marcus  - June 22nd, 2016
 * `\*args and \*\*kwargs in 5 minutes <https://github.com/desertpy/presentations/blob/master/misc_lightning/epm_args_kwargs.ipynb>`_ - Emily McDaniel - May 25th, 2016
