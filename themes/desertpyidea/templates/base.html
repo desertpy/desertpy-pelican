@@ -4,6 +4,7 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
         <meta charset="utf-8" />
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+        <link rel="shortcut icon" href="/images/new-desertpy-logo/Logo_DesertPy_ico.png">
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
@@ -17,7 +18,7 @@
 <body id="index" class="home">
 {% include 'github.html' %}
         <header id="banner" class="body">
-                <h1><a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %}<strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+                <h1><a href="{{ SITEURL }}/"><img style="height:1em" src="/images/new-desertpy-logo/Logo_DesertPy_ico.png"> {{ SITENAME }} {% if SITESUBTITLE %}<strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
                 <nav><ul>
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
