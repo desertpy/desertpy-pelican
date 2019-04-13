@@ -1,19 +1,23 @@
 version: 2
 jobs:
  build:
-   machine: true
-   steps:
-     - checkout
-     - run: docker build -t action gh-pages-pelican-action
-     - run: >
-        GIT_DEPLOY_KEY="$(echo $GIT_DEPLOY_KEY_BASE64 | base64 -d)"
-        docker run --rm
-        -v $PWD:/workspace
-        -w /workspace
-        -e GIT_DEPLOY_KEY
-        -e GITHUB_REPOSITORY=$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
-        -e GITHUB_ACTOR=$CIRCLE_USERNAME
-        action
+    docker:
+      - image: circleci/python:3.7.1
+        user: root  # Not great but oh well.
+    steps:
+      - checkout
+      - restore_cache:
+          key: deps9-{{ .Branch }}-{{ checksum "requirements.txt" }}
+      - run: >
+          GIT_DEPLOY_KEY="$(echo $GIT_DEPLOY_KEY_BASE64 | base64 -d)"
+          GITHUB_REPOSITORY=$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
+          GITHUB_ACTOR=$CIRCLE_USERNAME
+          .circleci/build.sh
+      - save_cache:
+          key: deps9-{{ .Branch }}-{{ checksum "requirements.txt" }}
+          paths:
+            - "/usr/local/bin"
+            - "/usr/local/lib/python3.7/site-packages"
 
 workflows:
   version: 2
