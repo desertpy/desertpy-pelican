@@ -1,4 +1,7 @@
 # Generate posts from Meetup Group
+# OLD non-OAUTH 2 API
+# This script will no longer be usable after August 15.
+
 import shutil
 from pathlib import Path
 
@@ -20,9 +23,10 @@ MEETUP_EVENTS_URL = "https://api.meetup.com/" \
 events = requests.get(MEETUP_EVENTS_URL).json()
 
 # Reset Destination Folder
-meetup_posts_gen_folder = Path('content/meetup_posts_gen')
+destination_folder = 'content/meetup_posts_old_api_gen'
+meetup_posts_gen_folder = Path(destination_folder)
 shutil.rmtree(meetup_posts_gen_folder, ignore_errors=True)
-Path.mkdir(Path('content/meetup_posts_gen'), exist_ok=True)
+Path.mkdir(Path(destination_folder), exist_ok=True)
 
 for event in events:
     # Bring variables to Python types
@@ -34,7 +38,8 @@ for event in events:
     venue_name = event['venue']['name']
     meetup_link = event['link']
     description = event['description']
-    status = event['status']
+    # status = event['status']
+    status = 'past'
     hosts = (host['name'] for host in event['event_hosts'])
     featured_photo_link = event.get('featured_photo', {}).get('photo_link', None)
 
