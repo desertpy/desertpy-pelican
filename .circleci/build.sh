@@ -15,7 +15,7 @@ echo "${GIT_DEPLOY_KEY}" > /root/.ssh/id_rsa_gh && \
 chmod 400 /root/.ssh/id_rsa_gh
 ssh-add /root/.ssh/id_rsa_gh
 echo '=================== Build site ==================='
-python generate_meetup_posts.py
+# python generate_meetup_posts.py
 make publish
 echo '=================== Publish to GitHub Pages ==================='
 pushd output
