@@ -26,7 +26,7 @@ LINKS = []
 # Social widget
 SOCIAL = []
 
-ARTICLE_PATHS = ['posts', 'meetup_posts_gen']
+ARTICLE_PATHS = ['posts', 'meetup_posts_old_api_gen']
 
 DEFAULT_PAGINATION = 10
 # Hide About
