@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy - TJ Slezak</title><link href="https://desertpy.com/" rel="alternate"></link><link href="https://desertpy.com/feeds/tj-slezak.atom.xml" rel="self"></link><id>https://desertpy.com/</id><updated>2019-07-24T18:30:00-07:00</updated><entry><title>Battle of the Data Visualization Libraries</title><link href="https://desertpy.com/posts/2019/Jul/24/battle-of-the-data-visualization-libraries-2019-07/" rel="alternate"></link><published>2019-07-24T18:30:00-07:00</published><updated>2019-07-24T18:30:00-07:00</updated><author><name>TJ Slezak</name></author><id>tag:desertpy.com,2019-07-24:/posts/2019/Jul/24/battle-of-the-data-visualization-libraries-2019-07/</id><summary type="html">&lt;div class="meetup-time"&gt;
+&lt;i class="far fa-clock"&gt;&lt;/i&gt; Wed, Jul 24, 2019 6:30 PM
+&lt;/div&gt;
+
+&lt;div class="meetup-venue"&gt;
+&lt;i class="fas fa-map-marked-alt"&gt;&lt;/i&gt; 734 W Polk St
+&lt;/div&gt;
+
+&lt;p&gt;&lt;i class="fab fa-meetup"&gt;&lt;/i&gt; &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/events/262950142/"&gt;See past meeting details!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are so many options when it comes to visualizing your data in Python that it makes very little sense for one person to attempt to learn all of the different libraries available. For this …&lt;/p&gt;</summary><content type="html">&lt;div class="meetup-time"&gt;
+&lt;i class="far fa-clock"&gt;&lt;/i&gt; Wed, Jul 24, 2019 6:30 PM
+&lt;/div&gt;
+
+&lt;div class="meetup-venue"&gt;
+&lt;i class="fas fa-map-marked-alt"&gt;&lt;/i&gt; 734 W Polk St
+&lt;/div&gt;
+
+&lt;p&gt;&lt;i class="fab fa-meetup"&gt;&lt;/i&gt; &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/events/262950142/"&gt;See past meeting details!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are so many options when it comes to visualizing your data in Python that it makes very little sense for one person to attempt to learn all of the different libraries available. For this meetup, we'd like to assemble teams to represent what each of these libraries (and others) have to offer by completing a series of plotting tasks (located here: &lt;a href="https://github.com/tjslezak/battle-of-the-plotting-libraries" class="linkified"&gt;https://github.com/tjslezak/battle-of-the-plotting-libraries&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;Each team will use the same datasets (procured specifically for this meeting) to complete a series of data visualization tasks and then present their results and code to the group. Whether you are a seasoned data visualization expert or just someone looking for a reason to learn a new visualization library, we’d love to hear and learn something new from you – sign up to join a team using this link (&lt;a href="https://docs.google.com/spreadsheets/d/1TbjDNq8KK3dQDm7o95AhISovZiuvl7_9zOhDzkaifHU/edit?usp=sharing" class="linkified"&gt;https://docs.google.com/spreadsheets/d/1TbjDNq8KK3dQDm7o95AhISovZiuvl7_9zOhDzkaifHU/edit?usp=sharing&lt;/a&gt;).&lt;/p&gt; &lt;p&gt;Feel free to add in any library you’d like to represent that is not listed.&lt;/p&gt; &lt;p&gt;Please note the change in location for this meeting. Thanks to Cubic/TeraLogics for hosting. They're hiring. Talk to John if you're interested in learning about what they do.&lt;/p&gt; &lt;/p&gt;</content><category term="meetup"></category><category term="past"></category></entry><entry><title>Data Science Monsoon</title><link href="https://desertpy.com/posts/2019/Feb/27/data-science-monsoon-2019-02/" rel="alternate"></link><published>2019-02-27T18:30:00-07:00</published><updated>2019-02-27T18:30:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2019-02-27:/posts/2019/Feb/27/data-science-monsoon-2019-02/</id><summary type="html">&lt;div class="meetup-time"&gt;
+&lt;i class="far fa-clock"&gt;&lt;/i&gt; Wed, Feb 27, 2019 6:30 PM
+&lt;/div&gt;
+
+&lt;div class="meetup-venue"&gt;
+&lt;i class="fas fa-map-marked-alt"&gt;&lt;/i&gt; 5701 N Pima Rd
+&lt;/div&gt;
+
+&lt;p&gt;&lt;i class="fab fa-meetup"&gt;&lt;/i&gt; &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/events/258745719/"&gt;See past meeting details!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Featured Photo" src="https://secure.meetupstatic.com/photos/event/5/9/3/a/600_478462842.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;What:&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;Learn about various topics in Data Science using Python from recent Data Science graduates.&lt;/p&gt; &lt;p&gt;Who:&lt;/p&gt; &lt;p&gt;TJ Slezak, Dhruv Sengar, Chris Herman, and Joe Doperalski&lt;/p&gt; &lt;p&gt;Where:&lt;/p&gt; &lt;p&gt;McKesson in Scottsdale (North-middle of three buildings, Bldg. #2 …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;div class="meetup-time"&gt;
+&lt;i class="far fa-clock"&gt;&lt;/i&gt; Wed, Feb 27, 2019 6:30 PM
+&lt;/div&gt;
+
+&lt;div class="meetup-venue"&gt;
+&lt;i class="fas fa-map-marked-alt"&gt;&lt;/i&gt; 5701 N Pima Rd
+&lt;/div&gt;
+
+&lt;p&gt;&lt;i class="fab fa-meetup"&gt;&lt;/i&gt; &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/events/258745719/"&gt;See past meeting details!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Featured Photo" src="https://secure.meetupstatic.com/photos/event/5/9/3/a/600_478462842.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;What:&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;Learn about various topics in Data Science using Python from recent Data Science graduates.&lt;/p&gt; &lt;p&gt;Who:&lt;/p&gt; &lt;p&gt;TJ Slezak, Dhruv Sengar, Chris Herman, and Joe Doperalski&lt;/p&gt; &lt;p&gt;Where:&lt;/p&gt; &lt;p&gt;McKesson in Scottsdale (North-middle of three buildings, Bldg. #2). When you enter security will have the RSVP list, have you sign in on the iPads, and direct you down the hall to the meetup room.&lt;/p&gt; &lt;/p&gt;</content><category term="meetup"></category><category term="past"></category></entry></feed>

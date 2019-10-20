@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy - Nelson Chen</title><link href="https://desertpy.com/" rel="alternate"></link><link href="https://desertpy.com/feeds/nelson-chen.atom.xml" rel="self"></link><id>https://desertpy.com/</id><updated>2019-09-15T18:30:00-07:00</updated><entry><title>Meetups are no longer synced to this site</title><link href="https://desertpy.com/posts/2019/Sep/15/Meetups%20are%20no%20longer%20synced%20to%20this%20site/" rel="alternate"></link><published>2019-09-15T18:30:00-07:00</published><updated>2019-09-15T18:30:00-07:00</updated><author><name>Nelson Chen</name></author><id>tag:desertpy.com,2019-09-15:/posts/2019/Sep/15/Meetups are no longer synced to this site/</id><summary type="html">&lt;p&gt;Unfortunately, Meetup.com has made it extremely hard to pull meetup data
+from their API in an automated way by a &lt;a href="https://github.com/meetup/api/issues/325"&gt;server&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are no longer able to sync meetup posts to this site. Please check
+out the &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/"&gt;meetup.com group&lt;/a&gt; in the menu bar of this site for the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Unfortunately, Meetup.com has made it extremely hard to pull meetup data
+from their API in an automated way by a &lt;a href="https://github.com/meetup/api/issues/325"&gt;server&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are no longer able to sync meetup posts to this site. Please check
+out the &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/"&gt;meetup.com group&lt;/a&gt; in the menu bar of this site for the
+latest meetup information.&lt;/p&gt;</content><category term="meetup"></category></entry></feed>

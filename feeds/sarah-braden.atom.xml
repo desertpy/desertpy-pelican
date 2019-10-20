@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy - Sarah Braden</title><link href="https://desertpy.com/" rel="alternate"></link><link href="https://desertpy.com/feeds/sarah-braden.atom.xml" rel="self"></link><id>https://desertpy.com/</id><updated>2018-07-24T18:30:00-07:00</updated><entry><title>July Meeting - Thunderstorm ... all lightning talks</title><link href="https://desertpy.com/posts/2018/Jul/24/july-meeting-thunderstorm-all-lightning-talks-2018-07/" rel="alternate"></link><published>2018-07-24T18:30:00-07:00</published><updated>2018-07-24T18:30:00-07:00</updated><author><name>Sarah Braden</name></author><id>tag:desertpy.com,2018-07-24:/posts/2018/Jul/24/july-meeting-thunderstorm-all-lightning-talks-2018-07/</id><summary type="html">&lt;div class="meetup-time"&gt;
+&lt;i class="far fa-clock"&gt;&lt;/i&gt; Tue, Jul 24, 2018 6:30 PM
+&lt;/div&gt;
+
+&lt;div class="meetup-venue"&gt;
+&lt;i class="fas fa-map-marked-alt"&gt;&lt;/i&gt; UAT (theater)
+&lt;/div&gt;
+
+&lt;p&gt;&lt;i class="fab fa-meetup"&gt;&lt;/i&gt; &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/events/252705458/"&gt;See past meeting details!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Featured Photo" src="https://secure.meetupstatic.com/photos/event/9/4/b/f/600_472838079.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;Lightning Talks&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;What's a lightning talk? Lightning talks are 5-10 minutes long, on any topic of interest to other Python people. It doesn't have to be about something that you wrote, it can be something that you …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;div class="meetup-time"&gt;
+&lt;i class="far fa-clock"&gt;&lt;/i&gt; Tue, Jul 24, 2018 6:30 PM
+&lt;/div&gt;
+
+&lt;div class="meetup-venue"&gt;
+&lt;i class="fas fa-map-marked-alt"&gt;&lt;/i&gt; UAT (theater)
+&lt;/div&gt;
+
+&lt;p&gt;&lt;i class="fab fa-meetup"&gt;&lt;/i&gt; &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/events/252705458/"&gt;See past meeting details!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Featured Photo" src="https://secure.meetupstatic.com/photos/event/9/4/b/f/600_472838079.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;Lightning Talks&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;What's a lightning talk? Lightning talks are 5-10 minutes long, on any topic of interest to other Python people. It doesn't have to be about something that you wrote, it can be something that you learned, or a technique you think other people will be interested in. For more info about what makes a good lightning talk and ideas, go to &lt;a href="https://us.pycon.org/2018/events/lightning/talks/" class="linkified"&gt;https://us.pycon.org/2018/events/lightning/talks/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;• Sarah will talk about the Zappa library ("serverless" Python web services on AWS)&lt;/p&gt; &lt;p&gt;• Gary will talk about Continuous Integration in GitHub using Circle CI&lt;/p&gt; &lt;p&gt;• Trevor will talk about the best rejected PEPs&lt;/p&gt; &lt;p&gt;• Marcus will talk about UMAP (Uniform Manifold Approximation and Projection) for dimension reduction for drop-in replacement for scikit-learn's t-SNE visualization and for non-linear dimension reduction&lt;/p&gt; &lt;p&gt;• Bring one and surprise us or comment below!&lt;/p&gt; &lt;p&gt;Where&lt;/p&gt; &lt;p&gt;The Theater (#136) at UAT on Baseline Road in Tempe.&lt;/p&gt; &lt;p&gt;&lt;img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/4/0/d/600_450841037.jpeg" /&gt;&lt;/p&gt; &lt;/p&gt;</content><category term="meetup"></category><category term="past"></category></entry><entry><title>Elasticsearch and Python</title><link href="https://desertpy.com/posts/2018/Feb/27/elasticsearch-and-python-2018-02/" rel="alternate"></link><published>2018-02-27T18:30:00-07:00</published><updated>2018-02-27T18:30:00-07:00</updated><author><name>Sarah Braden</name></author><id>tag:desertpy.com,2018-02-27:/posts/2018/Feb/27/elasticsearch-and-python-2018-02/</id><summary type="html">&lt;div class="meetup-time"&gt;
+&lt;i class="far fa-clock"&gt;&lt;/i&gt; Tue, Feb 27, 2018 6:30 PM
+&lt;/div&gt;
+
+&lt;div class="meetup-venue"&gt;
+&lt;i class="fas fa-map-marked-alt"&gt;&lt;/i&gt; UAT (theater)
+&lt;/div&gt;
+
+&lt;p&gt;&lt;i class="fab fa-meetup"&gt;&lt;/i&gt; &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/events/247361974/"&gt;See past meeting details!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sarah Braden will be giving a talk on how to get started using Elasticsearch with Python. More details later!&lt;/p&gt;</summary><content type="html">&lt;div class="meetup-time"&gt;
+&lt;i class="far fa-clock"&gt;&lt;/i&gt; Tue, Feb 27, 2018 6:30 PM
+&lt;/div&gt;
+
+&lt;div class="meetup-venue"&gt;
+&lt;i class="fas fa-map-marked-alt"&gt;&lt;/i&gt; UAT (theater)
+&lt;/div&gt;
+
+&lt;p&gt;&lt;i class="fab fa-meetup"&gt;&lt;/i&gt; &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/events/247361974/"&gt;See past meeting details!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sarah Braden will be giving a talk on how to get started using Elasticsearch with Python. More details later!&lt;/p&gt;</content><category term="meetup"></category><category term="past"></category></entry></feed>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>DesertPy - Nelson Chen</title><link>https://desertpy.com/</link><description></description><lastBuildDate>Sun, 15 Sep 2019 18:30:00 -0700</lastBuildDate><item><title>Meetups are no longer synced to this site</title><link>https://desertpy.com/posts/2019/Sep/15/Meetups%20are%20no%20longer%20synced%20to%20this%20site/</link><description>&lt;p&gt;Unfortunately, Meetup.com has made it extremely hard to pull meetup data
+from their API in an automated way by a &lt;a href="https://github.com/meetup/api/issues/325"&gt;server&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are no longer able to sync meetup posts to this site. Please check
+out the &lt;a href="https://www.meetup.com/Phoenix-Python-Meetup-Group/"&gt;meetup.com group&lt;/a&gt; in the menu bar of this site for the …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nelson Chen</dc:creator><pubDate>Sun, 15 Sep 2019 18:30:00 -0700</pubDate><guid isPermaLink="false">tag:desertpy.com,2019-09-15:/posts/2019/Sep/15/Meetups are no longer synced to this site/</guid><category>meetup</category></item></channel></rss>
